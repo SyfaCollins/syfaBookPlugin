@@ -78,7 +78,6 @@ function rewrite_books_flush(){
 
 register_activation_hook(__FILE__,'rewrite_books_flush')
 
-//working with users 
 
 
 ?>
